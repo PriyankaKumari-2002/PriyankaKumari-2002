@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankakumari-2002&label=Profile%20views&color=0e75b6&style=flat" alt="priyankakumari-2002" /> </p>
 
  <h1 align="center">Hi 👋, I'm Priyanka Kumari</h1>
- ### About Me:)
+ ### About Me
+ 
+ 
 ⚡⚡⚡ Hey, I am a Sophomore at VIT Vellore, pursuing btech in CSE Core. I am a Data Science,Machine Learning and AI enthusiast. I am also a frontend developer and passionate to learn new technologies. I am passionate,persistent,focused to learn new things and create an opportunity to implement those. I have preferred to work in teams and find that collaborative nature is one of my strongest attribute.I love to work on projects and work on real world problems.
 
 
