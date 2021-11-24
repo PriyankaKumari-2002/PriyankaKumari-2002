@@ -39,11 +39,9 @@ I believe in practicality and love to implement stuff. I enjoy challenges that p
 
 
 
- <h3 align="left">How to Reach Me</h3> 
-- 👯 **https://www.linkedin.com/in/priyanka-kumari-4736b61ba/** 
--  
+> ### How to Reach Me
+- 👯 **https://www.linkedin.com/in/priyanka-kumari-4736b61ba/**   
 - 👯  **https://medium.com/@PriyankaKumari25102002**  
-- 
 - 👯  **https://www.youtube.com/channel/UC-XaHQuVLpqPGsAEZHIvJZA/videos**
 
 <h3 align="left">Connect with me:</h3>
