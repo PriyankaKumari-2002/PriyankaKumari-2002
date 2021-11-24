@@ -19,18 +19,21 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankakumari-2002&label=Profile%20views&color=0e75b6&style=flat" alt="priyankakumari-2002" /> </p>
 ### About Me:)
  <h1 align="center">Hi 👋, I'm Priyanka Kumari</h1>
-<h3 align="center">I am a Data Science,Machine Learning and AI enthusiast. I am also a frontend developer and passionate to learn new technologies. I am passionate,persistent,focused to learn new things and create an opportunity to implement those. I have preferred to work in teams and find that collaborative nature is one of my strongest attribute.I love to work on projects and work on real world problems.</h3>
-I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.I have participated in 11 hackathons, solving different problems and exploring new fields.
+⚡⚡⚡ I am a Data Science,Machine Learning and AI enthusiast. I am also a frontend developer and passionate to learn new technologies. I am passionate,persistent,focused to learn new things and create an opportunity to implement those. I have preferred to work in teams and find that collaborative nature is one of my strongest attribute.I love to work on projects and work on real world problems.
+
+I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.I have participated in 11 hackathons, 8 ideathons solving different problems and exploring new fields.😄
 I am right now working on my project "WomTech" - a website or my solution to empower women in technology.
 I love recording videos and taking sessions.
-I believe in practicality and love to implement stuff. I enjoy challenges that push me out of my comfort zone.
+I believe in practicality and love to implement stuff. I enjoy challenges that push me out of my comfort zone.⚡⚡⚡
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/PriyankaKumari-2002](https://github.com/PriyankaKumari-2002)
 
 - 📝 I regularly write articles on [https://medium.com/@PriyankaKumari25102002](https://medium.com/@PriyankaKumari25102002)
 
-- 📫 How to reach me **https://www.linkedin.com/in/priyanka-kumari-4736b61ba/**  **https://medium.com/@PriyankaKumari25102002**  **https://www.youtube.com/channel/UC-XaHQuVLpqPGsAEZHIvJZA/videos**
+- 📫 How to reach me:  👯 **https://www.linkedin.com/in/priyanka-kumari-4736b61ba/**  
+-    👯  **https://medium.com/@PriyankaKumari25102002**  
+- 👯  **https://www.youtube.com/channel/UC-XaHQuVLpqPGsAEZHIvJZA/videos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
