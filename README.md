@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ⚡⚡⚡ Hey, I am a Sophomore at VIT Vellore, pursuing btech in CSE Core. I am a Data Science,Machine Learning and AI enthusiast. I am also a frontend developer and passionate to learn new technologies. I am passionate,persistent,focused to learn new things and create an opportunity to implement those. I have preferred to work in teams and find that collaborative nature is one of my strongest attribute.I love to work on projects and work on real world problems.
 
 
-I love mentoring people and have mentored and was project lead and mentor for hacktoberfest'21 at Codeflow organisation and . I was also at present mentor at SWOC by script foundation.
+I love mentoring people and was project lead and mentor for hacktoberfest'21 at Codeflow organisation and . I was also at present mentor at SWOC by script foundation.
 I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.I have participated in 11 hackathons, 8 ideathons solving different problems and exploring new fields.😄
 I am right now working on my project "WomTech" - a website or my solution to empower women in technology.
 I love recording videos and taking sessions.
