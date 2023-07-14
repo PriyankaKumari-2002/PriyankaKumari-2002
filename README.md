@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3 align="left">About me :)</h3>
  
  
-⚡⚡⚡ Hey, I am a Prefinal year student at VIT Vellore, pursuing btech in CSE Core. I am a Data Science,Machine Learning and AI enthusiast. I am also a frontend developer and passionate to learn new technologies. I am persistent,focused to learn new things and create an opportunity to implement those. I have preferred to work in teams and find that collaborative nature is one of my strongest attribute.I love to work on projects and work on real world problems.
+⚡⚡⚡ Hey, I am a Final year student at VIT Vellore, pursuing B.Tech in CSE Core. I am a Data Science, Machine Learning and AI, NLP(National Language Processing), Computer Vision enthusiast. I am also a frontend developer and passionate to learn new technologies. I am persistent,focused to learn new things and create an opportunity to implement those. I have preferred to work in teams and find that collaborative nature is one of my strongest attribute. I love to work on projects and work on real world problems.
 
 
 I love mentoring people and was project lead and mentor for hacktoberfest'21 at Codeflow organisation. I am also at present mentor at SWOC by script foundation.
